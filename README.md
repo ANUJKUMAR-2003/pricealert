@@ -7,7 +7,7 @@ PriceAlert is a Next.js application designed to help users track product prices,
 First, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/adrianhajdin/pricewise.git
+https://github.com/ANUJKUMAR-2003/pricealert.git
 cd pricewise
 npm install
 # or
