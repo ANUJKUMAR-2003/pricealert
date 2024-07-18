@@ -19,9 +19,14 @@ const Navbar = () => {
         </Link>
 
         <div className="flex items-center gap-5">
-        <button className="bg-red-500 text-white block w-full rounded-sm p-2" onClick={() => window.location.href = 'https://github.com/ANUJKUMAR-2003/-do-chat'}>
+          <a
+            href="https://github.com/ANUJKUMAR-2003/-do-chat"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="bg-red-500 text-white block w-full rounded-sm p-2"
+          >
             Github Code Here
-          </button>
+          </a>   
         </div>
       </nav>
     </header>
