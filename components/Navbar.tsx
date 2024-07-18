@@ -19,11 +19,9 @@ const Navbar = () => {
         </Link>
 
         <div className="flex items-center gap-5">
-        <Link href="/" className="flex items-center gap-1">
-          <p>
-            Contact<span className='text-primary'>US</span>
-          </p>
-        </Link>
+        <button className="bg-red-500 text-white block w-full rounded-sm p-2" onClick={() => window.location.href = 'https://github.com/ANUJKUMAR-2003/-do-chat'}>
+            Github Code Here
+          </button>
         </div>
       </nav>
     </header>
