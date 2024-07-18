@@ -20,7 +20,7 @@ const Navbar = () => {
 
         <div className="flex items-center gap-5">
           <a
-            href="https://github.com/ANUJKUMAR-2003/-do-chat"
+            href="https://github.com/ANUJKUMAR-2003/pricealert"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-red-500 text-white block w-full rounded-sm p-2"
